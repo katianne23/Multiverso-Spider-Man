@@ -2,9 +2,6 @@
 Live Coding - Multiverso Spider-Man: Criando um site com HTML, CSS e JavaScript - Parte 1
 
 Criação de um site profissional sobre o personagem Spider-Man, com transições, animações, efeitos e, de quebra.
-PRÉ-REQUISITOS:
-Conhecimento básico em HTML, CSS e JavaScript
-
 
 * [Projeto no Figma](https://www.figma.com/file/GjvdE0uob6...)
 * [Live Coding](https://youtu.be/a29-lfFi9Qc)
