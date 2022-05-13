@@ -1,19 +1,19 @@
-@import url('/assets/css/reset.css');
-@import url('/assets/css/global.css');
+@import url('reset.css');
+@import url('global.css');
 
 body{
     background-color: var(--primary-color);
 }
 body::before{
     content: "";
-    background-image: url('/assets/img/spider-man-background.jpg');
+    background-image: url('../img/spider-man-background.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     width: 100%;
     height: 100%;
     position: absolute;
-    opacity: 0.2;
+    opacity: 0.3;
     transition:  background-image 1s ease-in-out, opacity 1s ease-in-out;
 }
 
@@ -132,15 +132,15 @@ body::before{
 }
 
 body#spider-man-1-hovered::before{
-    background-image: url("/assets/img/pic-sm-bg-01.jpg");
+    background-image: url("../img/pic-sm-bg-01.jpg");
 }
 
 body#spider-man-2-hovered::before{
-    background-image: url("/assets/img/pic-sm-bg-02.jpg");
+    background-image: url("../img/pic-sm-bg-02.jpg");
 }
 
 body#spider-man-3-hovered::before{
-    background-image: url("/assets/img/pic-sm-bg-03.jpg");
+    background-image: url("../img/pic-sm-bg-03.jpg");
 }
 
 
