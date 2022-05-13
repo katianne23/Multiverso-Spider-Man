@@ -1,7 +1,7 @@
 # Multiverso-Spider-Man
 Live Coding - Multiverso Spider-Man: Criando um site com HTML, CSS e JavaScript - Parte 1
 
-Criação de um site profissional sobre o personagem Spider-Man, com transições, animações, efeitos e, de quebra.
+Criação de um site profissional sobre o personagem Spider-Man, com transições, animações, efeitos!
 
 * [Projeto no Figma](https://www.figma.com/file/GjvdE0uob6...)
 * [Live Coding](https://youtu.be/a29-lfFi9Qc)
