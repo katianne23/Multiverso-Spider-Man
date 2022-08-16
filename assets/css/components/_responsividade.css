@@ -28,21 +28,7 @@
 }
 
 
-@media only screen and (min-width: 1025px){
-  .s-wrapper .s-main-content .s-logo img{
-    height: 65%;
-  }
 
-  .s-wrapper .s-main-content__top {
-    margin-bottom: 160px;    
-  }
-
-  .s-controller{
-    margin-bottom: -25px;
-  }
- 
-}
- 
 
 
 
